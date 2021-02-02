@@ -1,6 +1,6 @@
 # geolocation_app
 
-A flutter application based on take the last 5 five locations of the user.
+A flutter application based on take the locations of the user. Besides it, calculates the distance between the user and a input given by the user.
 
 ## Getting Started
 
